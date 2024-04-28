@@ -47,8 +47,15 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+
+![image](https://github.com/KathirvelAIDS/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/94911373/2d63494e-c30d-4de2-ac4e-65a181a0f16f)
+
+
+
+
+### Name:KATHIRVEL. A
+### Register Number: 212221230047
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
